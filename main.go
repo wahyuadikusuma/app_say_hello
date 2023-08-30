@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println(say_hello.SayHello())
+	fmt.Println(say_hello.SayHello("Wahyu"))
 }
